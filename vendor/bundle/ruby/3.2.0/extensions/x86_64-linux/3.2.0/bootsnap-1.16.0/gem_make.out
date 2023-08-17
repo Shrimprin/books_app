@@ -1,0 +1,18 @@
+current directory: /home/kuroneko/temp/books_app/books_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/home/kuroneko/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/kuroneko/temp/books_app/books_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230816-21628-ca1k3z sitelibdir\=./.gem.20230816-21628-ca1k3z clean
+
+current directory: /home/kuroneko/temp/books_app/books_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230816-21628-ca1k3z sitelibdir\=./.gem.20230816-21628-ca1k3z
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/kuroneko/temp/books_app/books_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230816-21628-ca1k3z sitelibdir\=./.gem.20230816-21628-ca1k3z install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230816-21628-ca1k3z/bootsnap
+
+current directory: /home/kuroneko/temp/books_app/books_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230816-21628-ca1k3z sitelibdir\=./.gem.20230816-21628-ca1k3z clean
